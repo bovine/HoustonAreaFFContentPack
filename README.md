@@ -5,12 +5,18 @@ aviation pilots.
 
 ## Installation
 
-To install this content pack into your ForeFlight application, click this link
-on your device: https://foreflight.com/content?downloadURL=https://github.com/bovine/HoustonAreaFFContentPack/archive/HoustonAreaFFContentPack-v1.zip
+To install this content pack into your ForeFlight application, use Safari click each of these links
+on your iPad/iPhone device and choose to open with ForeFlight:
+* https://github.com/bovine/HoustonAreaFFContentPack/raw/master/practice-areas.kml
+* https://github.com/bovine/HoustonAreaFFContentPack/raw/master/restaurants.kml
 
-Then, in the Downloads view, ensure that the content pack titled
-"HoustonAreaFFContentPack" is downloaded. You may need to force-quit and restart
-ForeFlight to get the new content to appear.
+If prompted to import as waypoints or a map layer, choose map layer.
+
+Then in the Map Layers dropdown menu of ForeFlight, you should now have two new options for "practice-areas" and "restaurants".
+
+## Google Earth
+
+The two KML links above can also be opened in Google Earth Pro on your Mac/PC computer.
 
 ## Contributing
 
