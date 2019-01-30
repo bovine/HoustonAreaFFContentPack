@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Houston area airport diners</name>
+	<open>1</open>
+	<Placemark id="1.2.1">
+		<name>Southern Flyer Diner</name>
+		<address>3001 Aviation Way, Brenham, TX 77833</address>
+		<phoneNumber>(979) 836-5462</phoneNumber>
+		<snippet>3001 Aviation Way, Brenham, TX 77833</snippet>
+		<description><![CDATA[<!DOCTYPE html><html lang="en"> <head> <style>body{font-family:Roboto,Arial,sans-serif}.DiVP2e{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}.X6ZKdd{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}.gr0Qde{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}.Nqfqlb{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}.OTInGb,.hSSRhf,.xDQDq{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}.hSSRhf{background-position:-13px 0}.xDQDq{background-position:-25px 0}.Qfo35d{font-size:12px;margin-bottom:2px}.gs8uRd{font-size:14px;margin-bottom:2px}.JByhjc{font-size:14px;margin-bottom:2px;margin-top:5px}.iWlmL{font-size:14px;margin-bottom:2px;margin-top:5px}.OYCkv{font-size:14px;margin-bottom:2px;margin-top:5px}.VUd1Hd{font-size:14px;margin-bottom:2px}.jK1Lre{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}.PQWkDb{overflow:hidden;display:inline-block;vertical-align:top;position:relative}.giiMnc{font-size:10px;font-style:italic}.ncIaof{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="DiVP2e"> <div class="tg0Ii"> <div class="PQWkDb"> <img alt="Southern Flyer Diner" src="https://lh5.googleusercontent.com/-QJEsJYeIgD4/V7IopYGxjEI/AAAAAAAAAEc/Js4gZegW5NMoYddIIUPsQgnfAfJgsDRtwCJkC/w544-h306-k-no/" width="100%"> </div> </div> <br> <div> <span class="X6ZKdd">Southern Flyer Diner</span>  -  <span class="Qfo35d">Diner</span> </div> <div class="gr0Qde"> <div> 3001 Aviation Way </div><div> Brenham, TX 77833 </div> </div> <div class="JByhjc">   </div>  <div class="OYCkv"></div> <br> <div class="gs8uRd"> (979) 836-5462 </div> <div class="VUd1Hd"></div> <div class="kZ1n7c"> <a href="/url?q=http://www.southernflyer.com/&amp;sa=U&amp;ved=0ahUKEwi947fGyZTgAhUHi6wKHe1-AfkQ61gIDCgHMAA&amp;usg=AOvVaw0vkwERWMvNT84TDGNd1how" target="_blank"> southernflyer.com </a> </div> <br>  <span class="Nqfqlb">4.4</span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>   <span class="hSSRhf"></span>    <span class="reviews"> <a href="http://www.google.com/search?q=Southern+Flyer+Diner,+3001+Aviation+Way,+Brenham,+TX+77833&amp;ludocid=14484735916859320679#lrd=0x863ecb2259b7aca1:0xc9041e92adbde967,1" target="_blank"> <span class="review-count">45 reviews</span></a> </span> <div class="Hb2bEc">  </div> </div> </body> </html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=30.216401299999998&amp;lng=-96.3723199&amp;fid=0x863ecb2259b7aca1:0xc9041e92adbde967&amp;q=Southern Flyer Diner, 3001 Aviation Way, Brenham, TX 77833&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.2.5491&amp;useragent=GoogleEarth/7.3.2.5491(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-96.37231989999999,30.2164013,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-96.3761007931722,30.21356563012086,0 -96.3761007931722,30.21923696987914,0 -96.3685390068278,30.21923696987914,0 -96.3685390068278,30.21356563012086,0 -96.3761007931722,30.21356563012086,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Angelina County Airport Cafe</name>
+		<address>800 Airport Blvd, Burke, TX 75941</address>
+		<phoneNumber>(936) 634-7511</phoneNumber>
+		<snippet>800 Airport Blvd, Burke, TX 75941</snippet>
+		<description><![CDATA[<!DOCTYPE html><html lang="en"> <head> <style>body{font-family:Roboto,Arial,sans-serif}.DiVP2e{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}.X6ZKdd{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}.gr0Qde{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}.Nqfqlb{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}.OTInGb,.hSSRhf,.xDQDq{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}.hSSRhf{background-position:-13px 0}.xDQDq{background-position:-25px 0}.Qfo35d{font-size:12px;margin-bottom:2px}.gs8uRd{font-size:14px;margin-bottom:2px}.JByhjc{font-size:14px;margin-bottom:2px;margin-top:5px}.iWlmL{font-size:14px;margin-bottom:2px;margin-top:5px}.OYCkv{font-size:14px;margin-bottom:2px;margin-top:5px}.VUd1Hd{font-size:14px;margin-bottom:2px}.jK1Lre{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}.PQWkDb{overflow:hidden;display:inline-block;vertical-align:top;position:relative}.giiMnc{font-size:10px;font-style:italic}.ncIaof{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="DiVP2e"> <div class="tg0Ii"> <div class="PQWkDb"> <img alt="Angelina County Airport Cafe" src="https://lh4.googleusercontent.com/-1bt6xpc1kyo/WdxpgceKGFI/AAAAAAAB5Hk/GqXmiJLUJgY3Bzja8nQtKM4vx-jWM8ScgCLIBGAYYCw/w408-h306-k-no/" width="100%"> </div> </div> <br> <div> <span class="X6ZKdd">Angelina County Airport Cafe</span>  -  <span class="Qfo35d">American restaurant</span> </div> <div class="gr0Qde"> <div> 800 Airport Blvd </div><div> Burke, TX 75941 </div> </div> <div class="JByhjc">   </div>  <div class="OYCkv"></div> <br> <div class="gs8uRd"> (936) 634-7511 </div> <div class="VUd1Hd">Opens at 7:00 AM</div> <div class="kZ1n7c"> <a href="#" target="_blank">  </a> </div> <br>  <span class="Nqfqlb">4.4</span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>   <span class="hSSRhf"></span>    <span class="reviews"> <a href="http://www.google.com/search?q=Angelina+County+Airport+Cafe,+800+Airport+Blvd,+Burke,+TX+75941&amp;ludocid=16096763182565614712#lrd=0x863815a4aa01fcdb:0xdf6330d48a68e478,1" target="_blank"> <span class="review-count">54 reviews</span></a> </span> <div class="Hb2bEc">  </div> </div> </body> </html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=31.231893000000003&amp;lng=-94.7536456&amp;fid=0x863815a4aa01fcdb:0xdf6330d48a68e478&amp;q=Angelina County Airport Cafe, 800 Airport Blvd, Burke, TX 75941&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.2.5491&amp;useragent=GoogleEarth/7.3.2.5491(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-94.7536456,31.231893,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-94.75738688268717,31.22908703798462,0 -94.75738688268717,31.23469896201538,0 -94.74990431731283,31.23469896201538,0 -94.74990431731283,31.22908703798462,0 -94.75738688268717,31.22908703798462,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Carl&apos;s BBQ</name>
+		<address>21920 Northwest Fwy, Cypress, TX 77429</address>
+		<phoneNumber>(281) 890-2275</phoneNumber>
+		<snippet>21920 Northwest Fwy, Cypress, TX 77429</snippet>
+		<description><![CDATA[<!DOCTYPE html><html lang="en"> <head> <style>body{font-family:Roboto,Arial,sans-serif}.DiVP2e{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}.X6ZKdd{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}.gr0Qde{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}.Nqfqlb{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}.OTInGb,.hSSRhf,.xDQDq{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}.hSSRhf{background-position:-13px 0}.xDQDq{background-position:-25px 0}.Qfo35d{font-size:12px;margin-bottom:2px}.gs8uRd{font-size:14px;margin-bottom:2px}.JByhjc{font-size:14px;margin-bottom:2px;margin-top:5px}.iWlmL{font-size:14px;margin-bottom:2px;margin-top:5px}.OYCkv{font-size:14px;margin-bottom:2px;margin-top:5px}.VUd1Hd{font-size:14px;margin-bottom:2px}.jK1Lre{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}.PQWkDb{overflow:hidden;display:inline-block;vertical-align:top;position:relative}.giiMnc{font-size:10px;font-style:italic}.ncIaof{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="DiVP2e"> <div class="tg0Ii"> <div class="PQWkDb"> <img alt="Carl's BBQ" src="https://lh6.googleusercontent.com/-OD8G-e84c0M/WsvCkhhaz7I/AAAAAAAABAM/5nUtProoRskbnSqpVJWRTzm_F0RNREoeACLIBGAYYCw/w544-h306-k-no/" width="100%"> </div> </div> <br> <div> <span class="X6ZKdd">Carl's BBQ</span>  -  <span class="Qfo35d">Barbecue restaurant</span> </div> <div class="gr0Qde"> <div> 21920 Northwest Fwy </div><div> Cypress, TX 77429 </div> </div> <div class="JByhjc">   </div>  <div class="OYCkv">Basic strip-mall outpost serving BBQ plates, chicken-fried chicken &amp; steak, plus a kids' menu.</div> <br> <div class="gs8uRd"> (281) 890-2275 </div> <div class="VUd1Hd">Opens at 11:00 AM</div> <div class="kZ1n7c"> <a href="/url?q=https://www.carlsbbq.com/&amp;sa=U&amp;ved=0ahUKEwioovuTy5TgAhVFX60KHS_UDjMQ61gIDSgHMAA&amp;usg=AOvVaw3K68NTHkCCnLvoyQmx9kJ6" target="_blank"> carlsbbq.com </a> </div> <br>  <span class="Nqfqlb">4.2</span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>  <span class="xDQDq"></span>     <span class="reviews"> <a href="http://www.google.com/search?q=Carl's+BBQ,+21920+Northwest+Fwy,+Cypress,+TX+77429&amp;ludocid=16006031246442244248#lrd=0x8640d14d42cfca19:0xde20d89d73fe2898,1" target="_blank"> <span class="review-count">366 reviews</span></a> </span> <div class="Hb2bEc">  </div> </div> </body> </html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=29.933570900000003&amp;lng=-95.644386&amp;fid=0x8640d14d42cfca19:0xde20d89d73fe2898&amp;q=Carl&apos;s BBQ, 21920 Northwest Fwy, Cypress, TX 77429&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.2.5491&amp;useragent=GoogleEarth/7.3.2.5491(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-95.64438599999998,29.9335709,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-95.64817771696751,29.93072711227437,0 -95.64817771696751,29.93641468772563,0 -95.64059428303249,29.93641468772563,0 -95.64059428303249,29.93072711227437,0 -95.64817771696751,29.93072711227437,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Black Walnut Cafe</name>
+		<address>2971 Hawthorne Dr, Conroe, TX 77303</address>
+		<phoneNumber>(936) 202-2824</phoneNumber>
+		<snippet>2971 Hawthorne Dr, Conroe, TX 77303</snippet>
+		<description><![CDATA[<!DOCTYPE html><html lang="en"> <head> <style>body{font-family:Roboto,Arial,sans-serif}.DiVP2e{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}.X6ZKdd{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}.gr0Qde{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}.Nqfqlb{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}.OTInGb,.hSSRhf,.xDQDq{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}.hSSRhf{background-position:-13px 0}.xDQDq{background-position:-25px 0}.Qfo35d{font-size:12px;margin-bottom:2px}.gs8uRd{font-size:14px;margin-bottom:2px}.JByhjc{font-size:14px;margin-bottom:2px;margin-top:5px}.iWlmL{font-size:14px;margin-bottom:2px;margin-top:5px}.OYCkv{font-size:14px;margin-bottom:2px;margin-top:5px}.VUd1Hd{font-size:14px;margin-bottom:2px}.jK1Lre{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}.PQWkDb{overflow:hidden;display:inline-block;vertical-align:top;position:relative}.giiMnc{font-size:10px;font-style:italic}.ncIaof{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="DiVP2e"> <div class="tg0Ii"> <div class="PQWkDb"> <img alt="Black Walnut Cafe" src="https://lh4.googleusercontent.com/-j8ftKKNfIzw/VYsSUePVEKI/AAAAAAAAAIc/SdbmW3SJLZ8LfRrYKqMJwJPxUqPAoL9JgCLIBGAYYCw/w408-h307-k-no/" width="100%"> </div> </div> <br> <div> <span class="X6ZKdd">Black Walnut Cafe</span>  -  <span class="Qfo35d">American restaurant</span> </div> <div class="gr0Qde"> <div> 2971 Hawthorne Dr </div><div> Conroe, TX 77303 </div> </div> <div class="JByhjc">   </div>  <div class="OYCkv">Branch of a warm, casual chain offering American fare for breakfast, lunch &amp; dinner &amp; a full bar.</div> <br> <div class="gs8uRd"> (936) 202-2824 </div> <div class="VUd1Hd">Opens at 7:00 AM</div> <div class="kZ1n7c"> <a href="/url?q=http://www.blackwalnutcafe.com/&amp;sa=U&amp;ved=0ahUKEwjAnffly5TgAhVLOq0KHVKbCTgQ61gIDSgHMAA&amp;usg=AOvVaw0PtwwHqWTwVSb-szcmdv75" target="_blank"> blackwalnutcafe.com </a> </div> <br>  <span class="Nqfqlb">4.5</span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>   <span class="hSSRhf"></span>    <span class="reviews"> <a href="http://www.google.com/search?q=Black+Walnut+Cafe,+2971+Hawthorne+Dr,+Conroe,+TX+77303&amp;ludocid=14080467886126970390#lrd=0x86473f41c02516f9:0xc367def0dfe4b616,1" target="_blank"> <span class="review-count">381 reviews</span></a> </span> <div class="Hb2bEc">  </div> </div> </body> </html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=30.345265&amp;lng=-95.41061069999999&amp;fid=0x86473f41c02516f9:0xc367def0dfe4b616&amp;q=Black Walnut Cafe, 2971 Hawthorne Dr, Conroe, TX 77303&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.2.5491&amp;useragent=GoogleEarth/7.3.2.5491(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-95.41061070000001,30.345265,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-95.41438663637837,30.34243304771621,0 -95.41438663637837,30.34809695228378,0 -95.40683476362162,30.34809695228378,0 -95.40683476362162,30.34243304771621,0 -95.41438663637837,30.34243304771621,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Runway Cafe</name>
+		<address>7915 Airport Rd, Angleton, TX 77515</address>
+		<phoneNumber>(979) 849-5160</phoneNumber>
+		<snippet>7915 Airport Rd, Angleton, TX 77515</snippet>
+		<description><![CDATA[<!DOCTYPE html><html lang="en"> <head> <style>body{font-family:Roboto,Arial,sans-serif}.DiVP2e{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}.X6ZKdd{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}.gr0Qde{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}.Nqfqlb{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}.OTInGb,.hSSRhf,.xDQDq{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}.hSSRhf{background-position:-13px 0}.xDQDq{background-position:-25px 0}.Qfo35d{font-size:12px;margin-bottom:2px}.gs8uRd{font-size:14px;margin-bottom:2px}.JByhjc{font-size:14px;margin-bottom:2px;margin-top:5px}.iWlmL{font-size:14px;margin-bottom:2px;margin-top:5px}.OYCkv{font-size:14px;margin-bottom:2px;margin-top:5px}.VUd1Hd{font-size:14px;margin-bottom:2px}.jK1Lre{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}.PQWkDb{overflow:hidden;display:inline-block;vertical-align:top;position:relative}.giiMnc{font-size:10px;font-style:italic}.ncIaof{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="DiVP2e"> <div class="tg0Ii"> <div class="PQWkDb"> <img alt="Runway Cafe" src="https://lh6.googleusercontent.com/-mMuQko8izeg/W3b41LW_4kI/AAAAAAAAC1U/El5WMwywVnQRtJ_vPnOeTIx6FnjvukrWwCLIBGAYYCw/w408-h725-k-no/" width="100%"> </div> </div> <br> <div> <span class="X6ZKdd">Runway Cafe</span>  -  <span class="Qfo35d">Fine dining restaurant</span> </div> <div class="gr0Qde"> <div> 7915 Airport Rd </div><div> Angleton, TX 77515 </div> </div> <div class="JByhjc">   </div>  <div class="OYCkv"></div> <br> <div class="gs8uRd"> (979) 849-5160 </div> <div class="VUd1Hd">Opens at 11:00 AM</div> <div class="kZ1n7c"> <a href="/url?q=http://www.runwaycafeangleton.com/&amp;sa=U&amp;ved=0ahUKEwj3jZChyZTgAhVRR6wKHS4WC_wQ61gIDSgHMAA&amp;usg=AOvVaw3RhrwgMInuWoZCKdmjOFTt" target="_blank"> runwaycafeangleton.com </a> </div> <br>  <span class="Nqfqlb">4.4</span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>   <span class="hSSRhf"></span>    <span class="reviews"> <a href="http://www.google.com/search?q=Runway+Cafe,+7915+Airport+Rd,+Angleton,+TX+77515&amp;ludocid=4950689576655383561#lrd=0x86404346df6641a9:0x44b461f0a9c5ec09,1" target="_blank"> <span class="review-count">77 reviews</span></a> </span> <div class="Hb2bEc">  </div> </div> </body> </html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=29.111639099999998&amp;lng=-95.45951339999999&amp;fid=0x86404346df6641a9:0x44b461f0a9c5ec09&amp;q=Runway Cafe, 7915 Airport Rd, Angleton, TX 77515&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.2.5491&amp;useragent=GoogleEarth/7.3.2.5491(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-95.45951339999999,29.1116391,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-95.46333605306336,29.10877211020248,0 -95.46333605306336,29.11450608979752,0 -95.45569074693664,29.11450608979752,0 -95.45569074693664,29.10877211020248,0 -95.46333605306336,29.10877211020248,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+</Folder>
+</kml>
