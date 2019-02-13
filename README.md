@@ -6,9 +6,9 @@ aviation pilots.
 ## Installation
 
 To install this content pack into your ForeFlight application, use Safari click each of these links
-on your iPad/iPhone device and choose to open with ForeFlight:
-* https://github.com/bovine/HoustonAreaFFContentPack/raw/master/practice-areas.kml
-* https://github.com/bovine/HoustonAreaFFContentPack/raw/master/restaurants.kml
+on your iPad device and choose to open with ForeFlight:
+
+* https://foreflight.com/content?downloadURL=https://github.com/bovine/HoustonAreaFFContentPack/archive/dev.zip
 
 If prompted to import as waypoints or a map layer, choose map layer.
 
