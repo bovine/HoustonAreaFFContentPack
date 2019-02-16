@@ -1,7 +1,10 @@
 # Houston Area Content Pack for ForeFlight
 
 This content pack contains helpful data for Houston Area general
-aviation pilots.
+aviation pilots. It currently highlights popular airport diners and practice areas.
+
+As depicted on Twitter:
+https://twitter.com/ForeFlight/status/1095418269941592064
 
 ## Installation
 
@@ -14,9 +17,12 @@ on your iPad device and choose to open with ForeFlight if prompted:
 
 Then in the Map Layers dropdown menu of ForeFlight, you should now have two new options for "practice-areas" and "restaurants".
 
+![Screenshot of ForeFlight](https://pbs.twimg.com/media/DzO1HEGWkAM_svY.jpg)
+
+
 ## Google Earth
 
-The two KML links above can also be opened in Google Earth Pro on your Mac/PC computer.
+The two KML files in this repo can also be opened in Google Earth Pro on your Mac/PC computer.
 
 ## Contributing
 
